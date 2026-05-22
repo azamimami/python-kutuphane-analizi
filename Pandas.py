@@ -1,7 +1,7 @@
 import pandas as ps
 import pygwalker as py
 
-id = 1
+
 kutuphane_listesi = ['pandas', 'numpy', 'matplotlib', 'scikit-learn', 'seaborn', 'tensorflow', 'keras', 'xgboost', 'lightgbm', 'catboost']
 
 kutuphane_kullanim = ['Tablo', 'Veri Analizi', 'Veri Görselleştirme', 'Makine Öğrenimi', 'Veri Görselleştirme', 'Derin Öğrenme', 'Derin Öğrenme', 'Makine Öğrenimi', 'Makine Öğrenimi', 'Makine Öğrenimi']
