@@ -20,4 +20,6 @@ liste.index = range(1, len(liste) + 1)
 
 print(liste)
 
+
+# Basit Arayuz (pygwalker)
 walker = py.walk(liste)
